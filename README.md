@@ -1,2 +1,2 @@
-# Blackjack
+# Blackjack Project
 Python blackjack game
